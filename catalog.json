@@ -5,23 +5,142 @@
   },
 
  "products": [
-  { "id": "prod-489bb1a5-001", "name": "Cotton T-Shirt", "category": "clothing", "price": 499.00, "stock": 120, "rating": 4.2 },
-  { "id": "prod-489bb1a5-002", "name": "Denim Jeans", "category": "clothing", "price": 1299.00, "stock": 80, "rating": 4.4 },
-  { "id": "prod-489bb1a5-003", "name": "Running Shoes", "category": "footwear", "price": 2499.00, "stock": 45, "rating": 4.6 },
-  { "id": "prod-489bb1a5-004", "name": "Leather Sandals", "category": "footwear", "price": 899.00, "stock": 60, "rating": 4.1 },
-  { "id": "prod-489bb1a5-005", "name": "Backpack", "category": "accessories", "price": 1599.00, "stock": 70, "rating": 4.3 },
-  { "id": "prod-489bb1a5-006", "name": "Wallet", "category": "accessories", "price": 699.00, "stock": 150, "rating": 4.0 },
-  { "id": "prod-489bb1a5-007", "name": "Sunglasses", "category": "accessories", "price": 999.00, "stock": 95, "rating": 4.5 },
-  { "id": "prod-489bb1a5-008", "name": "Sports Cap", "category": "clothing", "price": 299.00, "stock": 200, "rating": 3.9 },
-  { "id": "prod-489bb1a5-009", "name": "Formal Shirt", "category": "clothing", "price": 1099.00, "stock": 65, "rating": 4.2 },
-  { "id": "prod-489bb1a5-010", "name": "Casual Shorts", "category": "clothing", "price": 799.00, "stock": 90, "rating": 4.1 },
-  { "id": "prod-489bb1a5-011", "name": "Travel Duffel Bag", "category": "bags", "price": 2199.00, "stock": 40, "rating": 4.4 },
-  { "id": "prod-489bb1a5-012", "name": "Laptop Sleeve", "category": "bags", "price": 599.00, "stock": 110, "rating": 4.3 },
-  { "id": "prod-489bb1a5-013", "name": "Water Bottle", "category": "fitness", "price": 399.00, "stock": 180, "rating": 4.0 },
-  { "id": "prod-489bb1a5-014", "name": "Yoga Mat", "category": "fitness", "price": 1299.00, "stock": 55, "rating": 4.5 },
-  { "id": "prod-489bb1a5-015", "name": "Dumbbell Set", "category": "fitness", "price": 3499.00, "stock": 25, "rating": 4.6 },
-  { "id": "prod-489bb1a5-016", "name": "Notebook Pack", "category": "stationery", "price": 249.00, "stock": 300, "rating": 3.8 },
-  { "id": "prod-489bb1a5-017", "name": "Ballpoint Pens", "category": "stationery", "price": 149.00, "stock": 400, "rating": 3.9 }
+  {
+    "id": "prod-489bb1a5-001",
+    "name": "Premium Item 1",
+    "category": "books",
+    "price": 313.85,
+    "stock": 2,
+    "rating": 2.2
+  },
+  {
+    "id": "prod-489bb1a5-002",
+    "name": "Pro Item 2",
+    "category": "clothing",
+    "price": 90.97,
+    "stock": 32,
+    "rating": 3
+  },
+  {
+    "id": "prod-489bb1a5-003",
+    "name": "Standard Item 3",
+    "category": "clothing",
+    "price": 158.48,
+    "stock": 182,
+    "rating": 1.7
+  },
+  {
+    "id": "prod-489bb1a5-004",
+    "name": "Elite Item 4",
+    "category": "home",
+    "price": 86.28,
+    "stock": 194,
+    "rating": 2.6
+  },
+  {
+    "id": "prod-489bb1a5-005",
+    "name": "Premium Item 5",
+    "category": "home",
+    "price": 360.73,
+    "stock": 42,
+    "rating": 4
+  },
+  {
+    "id": "prod-489bb1a5-006",
+    "name": "Elite Item 6",
+    "category": "clothing",
+    "price": 21.5,
+    "stock": 78,
+    "rating": 1.4
+  },
+  {
+    "id": "prod-489bb1a5-007",
+    "name": "Elite Item 7",
+    "category": "sports",
+    "price": 471.8,
+    "stock": 179,
+    "rating": 3.6
+  },
+  {
+    "id": "prod-489bb1a5-008",
+    "name": "Elite Item 8",
+    "category": "clothing",
+    "price": 126.08,
+    "stock": 41,
+    "rating": 3.9
+  },
+  {
+    "id": "prod-489bb1a5-009",
+    "name": "Standard Item 9",
+    "category": "sports",
+    "price": 356.31,
+    "stock": 141,
+    "rating": 3.4
+  },
+  {
+    "id": "prod-489bb1a5-010",
+    "name": "Elite Item 10",
+    "category": "sports",
+    "price": 12.9,
+    "stock": 81,
+    "rating": 3.6
+  },
+  {
+    "id": "prod-489bb1a5-011",
+    "name": "Elite Item 11",
+    "category": "clothing",
+    "price": 171.16,
+    "stock": 61,
+    "rating": 1.6
+  },
+  {
+    "id": "prod-489bb1a5-012",
+    "name": "Pro Item 12",
+    "category": "sports",
+    "price": 402.5,
+    "stock": 12,
+    "rating": 1.3
+  },
+  {
+    "id": "prod-489bb1a5-013",
+    "name": "Premium Item 13",
+    "category": "books",
+    "price": 206.95,
+    "stock": 130,
+    "rating": 4.1
+  },
+  {
+    "id": "prod-489bb1a5-014",
+    "name": "Basic Item 14",
+    "category": "sports",
+    "price": 116.3,
+    "stock": 64,
+    "rating": 3.9
+  },
+  {
+    "id": "prod-489bb1a5-015",
+    "name": "Basic Item 15",
+    "category": "sports",
+    "price": 394.54,
+    "stock": 198,
+    "rating": 1.1
+  },
+  {
+    "id": "prod-489bb1a5-016",
+    "name": "Premium Item 16",
+    "category": "books",
+    "price": 350.14,
+    "stock": 70,
+    "rating": 2.8
+  },
+  {
+    "id": "prod-489bb1a5-017",
+    "name": "Basic Item 17",
+    "category": "home",
+    "price": 278.52,
+    "stock": 186,
+    "rating": 4
+  }
 ],
 
   "aggregations": {
