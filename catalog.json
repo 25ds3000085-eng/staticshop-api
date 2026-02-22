@@ -4,25 +4,25 @@
     "version": "489bb1a5"
   },
 
-  "products": [
-    { "id": 1, "name": "Cotton T-Shirt", "category": "clothing", "price": 499.00, "stock": 120, "rating": 4.2 },
-    { "id": 2, "name": "Denim Jeans", "category": "clothing", "price": 1299.00, "stock": 80, "rating": 4.4 },
-    { "id": 3, "name": "Running Shoes", "category": "footwear", "price": 2499.00, "stock": 45, "rating": 4.6 },
-    { "id": 4, "name": "Leather Sandals", "category": "footwear", "price": 899.00, "stock": 60, "rating": 4.1 },
-    { "id": 5, "name": "Backpack", "category": "accessories", "price": 1599.00, "stock": 70, "rating": 4.3 },
-    { "id": 6, "name": "Wallet", "category": "accessories", "price": 699.00, "stock": 150, "rating": 4.0 },
-    { "id": 7, "name": "Sunglasses", "category": "accessories", "price": 999.00, "stock": 95, "rating": 4.5 },
-    { "id": 8, "name": "Sports Cap", "category": "clothing", "price": 299.00, "stock": 200, "rating": 3.9 },
-    { "id": 9, "name": "Formal Shirt", "category": "clothing", "price": 1099.00, "stock": 65, "rating": 4.2 },
-    { "id": 10, "name": "Casual Shorts", "category": "clothing", "price": 799.00, "stock": 90, "rating": 4.1 },
-    { "id": 11, "name": "Travel Duffel Bag", "category": "bags", "price": 2199.00, "stock": 40, "rating": 4.4 },
-    { "id": 12, "name": "Laptop Sleeve", "category": "bags", "price": 599.00, "stock": 110, "rating": 4.3 },
-    { "id": 13, "name": "Water Bottle", "category": "fitness", "price": 399.00, "stock": 180, "rating": 4.0 },
-    { "id": 14, "name": "Yoga Mat", "category": "fitness", "price": 1299.00, "stock": 55, "rating": 4.5 },
-    { "id": 15, "name": "Dumbbell Set", "category": "fitness", "price": 3499.00, "stock": 25, "rating": 4.6 },
-    { "id": 16, "name": "Notebook Pack", "category": "stationery", "price": 249.00, "stock": 300, "rating": 3.8 },
-    { "id": 17, "name": "Ballpoint Pens", "category": "stationery", "price": 149.00, "stock": 400, "rating": 3.9 }
-  ],
+ "products": [
+  { "id": "prod-489bb1a5-001", "name": "Cotton T-Shirt", "category": "clothing", "price": 499.00, "stock": 120, "rating": 4.2 },
+  { "id": "prod-489bb1a5-002", "name": "Denim Jeans", "category": "clothing", "price": 1299.00, "stock": 80, "rating": 4.4 },
+  { "id": "prod-489bb1a5-003", "name": "Running Shoes", "category": "footwear", "price": 2499.00, "stock": 45, "rating": 4.6 },
+  { "id": "prod-489bb1a5-004", "name": "Leather Sandals", "category": "footwear", "price": 899.00, "stock": 60, "rating": 4.1 },
+  { "id": "prod-489bb1a5-005", "name": "Backpack", "category": "accessories", "price": 1599.00, "stock": 70, "rating": 4.3 },
+  { "id": "prod-489bb1a5-006", "name": "Wallet", "category": "accessories", "price": 699.00, "stock": 150, "rating": 4.0 },
+  { "id": "prod-489bb1a5-007", "name": "Sunglasses", "category": "accessories", "price": 999.00, "stock": 95, "rating": 4.5 },
+  { "id": "prod-489bb1a5-008", "name": "Sports Cap", "category": "clothing", "price": 299.00, "stock": 200, "rating": 3.9 },
+  { "id": "prod-489bb1a5-009", "name": "Formal Shirt", "category": "clothing", "price": 1099.00, "stock": 65, "rating": 4.2 },
+  { "id": "prod-489bb1a5-010", "name": "Casual Shorts", "category": "clothing", "price": 799.00, "stock": 90, "rating": 4.1 },
+  { "id": "prod-489bb1a5-011", "name": "Travel Duffel Bag", "category": "bags", "price": 2199.00, "stock": 40, "rating": 4.4 },
+  { "id": "prod-489bb1a5-012", "name": "Laptop Sleeve", "category": "bags", "price": 599.00, "stock": 110, "rating": 4.3 },
+  { "id": "prod-489bb1a5-013", "name": "Water Bottle", "category": "fitness", "price": 399.00, "stock": 180, "rating": 4.0 },
+  { "id": "prod-489bb1a5-014", "name": "Yoga Mat", "category": "fitness", "price": 1299.00, "stock": 55, "rating": 4.5 },
+  { "id": "prod-489bb1a5-015", "name": "Dumbbell Set", "category": "fitness", "price": 3499.00, "stock": 25, "rating": 4.6 },
+  { "id": "prod-489bb1a5-016", "name": "Notebook Pack", "category": "stationery", "price": 249.00, "stock": 300, "rating": 3.8 },
+  { "id": "prod-489bb1a5-017", "name": "Ballpoint Pens", "category": "stationery", "price": 149.00, "stock": 400, "rating": 3.9 }
+],
 
   "aggregations": {
     "electronics": {
